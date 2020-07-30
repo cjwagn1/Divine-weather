@@ -4,8 +4,7 @@ import "./css/index.css";
 import Footer from "./components/footer.js";
 
 const api = {
-  key: "deeee700b79ce1a20378a67cbf4a6322",
-  base: "https://api.openweathermap.org/data/2.5/"
+  
 };
 
 const App = () => {
