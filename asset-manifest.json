@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/divine-weather/static/css/main.99433cdf.chunk.css",
-    "main.js": "/divine-weather/static/js/main.bdc197f2.chunk.js",
-    "main.js.map": "/divine-weather/static/js/main.bdc197f2.chunk.js.map",
-    "runtime-main.js": "/divine-weather/static/js/runtime-main.6bd73cc7.js",
-    "runtime-main.js.map": "/divine-weather/static/js/runtime-main.6bd73cc7.js.map",
-    "static/js/2.bf4d530c.chunk.js": "/divine-weather/static/js/2.bf4d530c.chunk.js",
-    "static/js/2.bf4d530c.chunk.js.map": "/divine-weather/static/js/2.bf4d530c.chunk.js.map",
-    "index.html": "/divine-weather/index.html",
-    "precache-manifest.abed9c9bc689a8b09cb8329dffcec8df.js": "/divine-weather/precache-manifest.abed9c9bc689a8b09cb8329dffcec8df.js",
-    "service-worker.js": "/divine-weather/service-worker.js",
-    "static/css/main.99433cdf.chunk.css.map": "/divine-weather/static/css/main.99433cdf.chunk.css.map",
-    "static/js/2.bf4d530c.chunk.js.LICENSE": "/divine-weather/static/js/2.bf4d530c.chunk.js.LICENSE",
-    "static/media/index.css": "/divine-weather/static/media/warm.13be0af1.jpg",
-    "static/media/logo.svg": "/divine-weather/static/media/logo.ee7cd8ed.svg"
+    "main.css": "/Divine-weather/static/css/main.fa23e668.chunk.css",
+    "main.js": "/Divine-weather/static/js/main.9aea7ee8.chunk.js",
+    "main.js.map": "/Divine-weather/static/js/main.9aea7ee8.chunk.js.map",
+    "runtime-main.js": "/Divine-weather/static/js/runtime-main.a89ece24.js",
+    "runtime-main.js.map": "/Divine-weather/static/js/runtime-main.a89ece24.js.map",
+    "static/js/2.bf4d530c.chunk.js": "/Divine-weather/static/js/2.bf4d530c.chunk.js",
+    "static/js/2.bf4d530c.chunk.js.map": "/Divine-weather/static/js/2.bf4d530c.chunk.js.map",
+    "index.html": "/Divine-weather/index.html",
+    "precache-manifest.e19d2acd9c04df48bbbc4985677a6f40.js": "/Divine-weather/precache-manifest.e19d2acd9c04df48bbbc4985677a6f40.js",
+    "service-worker.js": "/Divine-weather/service-worker.js",
+    "static/css/main.fa23e668.chunk.css.map": "/Divine-weather/static/css/main.fa23e668.chunk.css.map",
+    "static/js/2.bf4d530c.chunk.js.LICENSE": "/Divine-weather/static/js/2.bf4d530c.chunk.js.LICENSE",
+    "static/media/index.css": "/Divine-weather/static/media/warm.13be0af1.jpg",
+    "static/media/logo.svg": "/Divine-weather/static/media/logo.ee7cd8ed.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.6bd73cc7.js",
+    "static/js/runtime-main.a89ece24.js",
     "static/js/2.bf4d530c.chunk.js",
-    "static/css/main.99433cdf.chunk.css",
-    "static/js/main.bdc197f2.chunk.js"
+    "static/css/main.fa23e668.chunk.css",
+    "static/js/main.9aea7ee8.chunk.js"
   ]
 }
